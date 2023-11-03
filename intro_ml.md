@@ -18,7 +18,7 @@ Compte tenu des conditions climatiques, nous allons travailler à la maison en r
 ### La rédaction au format Mardown
 
 
- <img align ="right" width=220 src="./images/markdown.png">
+ <img align ="right" width=220 src="/markdown.png">
 
 
 Cet exercice a pour objectif de reproduire le plus fidèlement possible ce t/exte avec :
